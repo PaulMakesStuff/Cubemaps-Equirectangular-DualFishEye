@@ -2,7 +2,7 @@
 
 In time, this will become a collection of scripts to convert to and from equirectangular images and cube maps.
 
-#### Equirectangular from individual cube map files
+### Equirectangular from individual cube map files
 
 Prior to using this script you will need to install [Python Imaging Library - PIL](http://www.pythonware.com/products/pil/). Once installed, copy the createEquiFromSquareFiles.py file to your computer. Open up either terminal, or command prompt and then run the following command replacing the file path with a path to the folder containing the six cube map images on your computer:
 
