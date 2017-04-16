@@ -2,6 +2,8 @@
 
 In time, this will become a collection of scripts to convert to and from equirectangular images and cube maps.
 
+A more detailed explanation of how the script works can be found on my website, [www.paul-reed.co.uk/programming.htm](http://www.paul-reed.co.uk/programming.html)
+
 ### Equirectangular from individual cube map files
 
 ![Output Image](http://www.paul-reed.co.uk/images/fortPoint_Equi.png)
