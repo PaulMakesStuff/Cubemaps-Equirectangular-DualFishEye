@@ -29,8 +29,8 @@ negz = Image.open(filePath+"negy.jpg")
 squareLength = posx.size[0]
 halfSquareLength = squareLength/2
 
-outputWidth = squareLength*3
-outputHeight = squareLength*2
+outputWidth = squareLength*2
+outputHeight = squareLength*1
 
 output = []
 
